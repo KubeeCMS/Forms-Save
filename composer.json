@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/forms-save",
+    "description": "Adds support for partial form submissions.",
+    "keywords": ["kubee", "kubeecms", "forms", "save", "forms-save"],
+    "homepage": "https://github.com/kubeecms/forms-save",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
